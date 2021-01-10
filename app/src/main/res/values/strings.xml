@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JeuEnfant</string>
+    <string name="animals">Guess who am i ?</string>
+    <string name="Next">next</string>
+    <string name="circle">circle</string>
+    <string name="triangle">triangle</string>
+    <string name="square">square</string>
+    <string name="Choose">Choose</string>
+    <string name="next">next</string>
+    <string name="rectangle">rectangle</string>
+    <string name="email_invalid">Votre Email est invalide</string>
+    <string name="password_invalid">Remplir le Champ SVP</string>
+    <string name="name_invalid">Remplir le Champ SVP</string>
+    <string name="star">star</string>
+    <string name="octogone">octogone</string>
+    <string name="diamond">diamond</string>
+    <string name="hexagon">hexagon</string>
+    <string name="parallelograme">parallelograme</string>
+</resources>
+

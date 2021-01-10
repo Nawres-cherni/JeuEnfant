@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nawres.jeuenfant">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/fly"
+        android:label="Smart Kids"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Numbers.Number9"></activity>
+        <activity android:name=".Numbers.Number8" />
+        <activity android:name=".Numbers.Number7" />
+        <activity android:name=".Numbers.Number6" />
+        <activity android:name=".Numbers.Number5" />
+        <activity android:name=".Numbers.Number4" />
+        <activity android:name=".Numbers.Number3" />
+        <activity android:name=".Numbers.Number2" />
+        <activity android:name=".Numbers.Number1" />
+        <activity android:name=".Numbers.numbers_levels" />
+        <activity android:name=".Shapes.cheatSheet" />
+        <activity android:name=".Shapes.Shape_Level9" />
+        <activity android:name=".Shapes.Shape_Level8" />
+        <activity android:name=".Shapes.Shape_Level7" />
+        <activity android:name=".Shapes.Shape_Level6" />
+        <activity android:name=".Shapes.Shape_Level5" />
+        <activity android:name=".Shapes.Shape_Level4" />
+        <activity android:name=".Shapes.Shape_Level3" />
+        <activity android:name=".Shapes.Shape_Level2" />
+        <activity android:name=".Shapes.Shape_Level1" />
+        <activity android:name=".Shapes.shapes_levels" />
+        <activity android:name=".Colors.CheatColor" />
+        <activity android:name=".Colors.Color_Level9" />
+        <activity android:name=".Colors.Color_Level8" />
+        <activity android:name=".Colors.Color_Level7" />
+        <activity android:name=".Colors.Color_Level6" />
+        <activity android:name=".Colors.Color_Level5" />
+        <activity android:name=".Colors.Color_Level4" />
+        <activity android:name=".Colors.Color_Level3" />
+        <activity android:name=".Colors.Color_Level2" />
+        <activity android:name=".Colors.Color_Level1" />
+        <activity android:name=".Colors.color_levels" />
+        <activity android:name=".Animals.Animal_Level9" />
+        <activity android:name=".Animals.Animal_Level8" />
+        <activity android:name=".Animals.Animal_Level7" />
+        <activity android:name=".Animals.Animal_Level6" />
+        <activity android:name=".Animals.Animal_Level5" />
+        <activity android:name=".Animals.Animal_Level4" />
+        <activity android:name=".Animals.Animal_Level3" />
+        <activity android:name=".Animals.Animal_Level2" />
+        <activity android:name=".Animals.Animal_Level1" />
+        <activity android:name=".Animals.animal_Level" />
+        <activity android:name=".SignUp" />
+        <activity android:name=".SignIn" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".SpalchScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
