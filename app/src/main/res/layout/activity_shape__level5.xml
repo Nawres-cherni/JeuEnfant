@@ -72,7 +72,6 @@
             android:layout_width="164dp"
             android:layout_height="wrap_content"
             android:text="@string/square"
-            android:textAlignment="textEnd"
             android:textColor="#000000"
             android:textSize="25dp"
             android:textStyle="bold"/>
@@ -82,7 +81,6 @@
             android:layout_width="164dp"
             android:layout_height="wrap_content"
             android:text="@string/star"
-            android:textAlignment="textEnd"
             android:textColor="#000000"
             android:textSize="25dp"
             android:textStyle="bold"
@@ -94,7 +92,6 @@
             android:layout_width="164dp"
             android:layout_height="wrap_content"
             android:text="@string/triangle"
-            android:textAlignment="textEnd"
             android:textColor="#000000"
             android:textSize="25dp"
             android:textStyle="bold"/>
